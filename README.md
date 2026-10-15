@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Lena 👋
+I’m a data science student who enjoys exploring data, uncovering patterns, and turning insights into practical solutions. I’m building my skills through coursework, personal projects, and hands-on experimentation.
 
-<!--
-**leenaabdelrahman80-commits/leenaabdelrahman80-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🎓 Studying data science
+📊 Interested in data analysis, visualization, and machine learning
+🌱 Continuously learning new tools and techniques
+🤝 Open to connecting with fellow students, data professionals, and potential collaborators
+Skills
 
-Here are some ideas to get you started:
+My Goals
+Strengthen my programming skills
+Build projects and share my progress on GitHub
+Develop practical data analysis skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me
+LinkedIn:[My LinkedIn Profile](https://www.linkedin.com/in/lena-abdelrahman-283abb2b1/)
+
